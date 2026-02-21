@@ -10,23 +10,30 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      GOOD
+      I think this visualization is good because it clearly shows its message. The main point is that slowing the spread of a virus helps keep hospitals from being overwhelmed. The two curves make it easy to compare what happens with and without public health measures. You don’t have to think too hard to understand it.
 
+      Another reason it is good is that it is simple. There are only a few elements on the chart: two curves and a line showing healthcare capacity. There is not too much text or decoration. In class we learned that good visualizations should not be cluttered. This one keeps things clean and focused.
 
+      It is also accessible. The chart does not rely only on color. The shapes of the curves and the position of the lines help explain the message. The important parts are labeled clearly. This makes it easier for more people to understand. Overall, it works because it tells a clear story, is simple, and is easy to read as well.
 
-
-
-
-
-      ```
     - How could this data visualization have been improved?  
-      ```
-      Your answer...
+      One improvement would be adding a clear source. Some versions of this chart were shared without explaining where the data came from. Including a source would make it more trustworthy.
+      Another improvement would be adding alt-text if the chart is posted online. That would help people who use screen readers understand what the chart is showing.
+    
+    BAD
+    I think this visualization is bad because it makes the data harder to understand instead of easier.First, it uses a 3D effect. This makes some slices look bigger just because they are closer to the front. That can confuse the viewer and make the data look misleading. We learned that charts should show numbers clearly and accurately. The 3D effect gets in the way of that.
+    
+    Second, it depends too much on color. Some slices are very similar shades, which makes it hard to tell them apart. This would be especially difficult for someone who is colorblind. In class we talked about not relying only on color to communicate information.
+    
+    Third, it is cluttered. The exploding slice and bright colors are distracting. These design choices do not add useful information. They just make the chart look flashy.
+    Also, pie charts are already harder to compare than bar charts. It is difficult to compare angles. A bar chart would make it much easier to see which brand has more market share.
 
+   - How could this data visualization have been improved?  
 
-
-
-
+   First, the 3D effect should be removed. It should be a simple 2D chart instead.
+   Second, it would be better to change it to a bar chart. That would make it easier to compare values.
+   Third, the colors should be simplified and made more accessible. Labels with exact percentages should also be added directly to the chart. Overall, the chart focuses too much on style and not enough on clarity.
 
       
       ```
